@@ -1,8 +1,8 @@
-### Olá eu sou o Reis, estudante de engenharia de software👋
+# 👋 Olá eu sou o Reis, estudante de engenharia de software
 
 
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,7 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReisAglemar&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReisAglemar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🧮 Meu GitHub em números: 
+
+![](https://github-readme-stats.vercel.app/api?username=ReisAglemar&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ReisAglemar&theme=gotham&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReisAglemar&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+#
 
