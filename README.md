@@ -2,18 +2,7 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f84e4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Reis,👋;+Seja+bem+vindo!+😉)](https://git.io/typing-svg)
 
- # 🧮 Meu GitHub em números:
- 
-
-![nunmbers](https://github-readme-streak-stats.herokuapp.com/?user=Reisaglemar&theme=tokyonight&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reisaglemar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<hr>
-<br><br>
-
-
-
-## 🧾 sobre mim
+ # 🧾 sobre mim
 
 Olá! Sou Reis, um entusiasta da programação e da tecnologia.
 
@@ -30,7 +19,14 @@ compartilha desses interesses ou está buscando colaboradores para um projeto in
 <hr>
 <br><br>
 
+ ## 🧮 Meu GitHub em números:
+ 
 
+![nunmbers](https://github-readme-streak-stats.herokuapp.com/?user=Reisaglemar&theme=tokyonight&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reisaglemar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<hr>
+<br>
 
 ## 🧰 Mais utilizados
    
