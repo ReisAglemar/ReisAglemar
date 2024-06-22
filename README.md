@@ -3,19 +3,15 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f84e4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Reis,👋;+Seja+bem+vindo!+😉)](https://git.io/typing-svg)
 
  # 🧾 sobre mim
+Sou um entusiasta da Engenharia de Software, com uma paixão especial pelo desenvolvimento em Java.
 
-Olá! Sou Reis, um entusiasta da programação e da tecnologia.
+O que realmente me motiva é a sede de conhecimento e o desejo de entender profundamente como as coisas funcionam, além da perspectiva de um usuário comum. 
+Acredito no poder do aprendizado contínuo e estou sempre em busca de novas oportunidades para expandir minhas habilidades e conhecimentos.
 
-Desenvolvi um interesse profundo por resolver problemas e criar soluções inovadoras através do código.
-Atualmente, estou focado em aprimorar minhas habilidades em linguagens como Java e C, explorando o 
-vasto mundo do desenvolvimento de software e sistemas. Além da programação, tenho um grande amor pelo 
-sistema operacional Linux, particularmente pelo Fedora, que uso diariamente como minha principal 
-plataforma de desenvolvimento. 
+Além da minha formação acadêmica, completei vários cursos no Curso em Vídeo, que me proporcionaram uma base sólida em diversas áreas da programação e tecnologia. 
+Recentemente, participei do Bootcamp Santander 2024, onde pude aplicar meus conhecimentos em projetos práticos e colaborativos, aprimorando ainda mais minhas competências técnicas e de trabalho em equipe.
 
-Meu objetivo é contribuir para projetos de código aberto, aprender 
-continuamente e colaborar com a comunidade de desenvolvimento, compartilhando conhecimento e experiências.  
-Estou sempre em busca de novos desafios e oportunidades para expandir meu horizonte tecnológico. Se você 
-compartilha desses interesses ou está buscando colaboradores para um projeto interessante, não hesite em entrar em contato!
+Meu objetivo é utilizar minha curiosidade e determinação para contribuir significativamente em projetos inovadores e desafiadores.
 <hr>
 <br><br>
 
