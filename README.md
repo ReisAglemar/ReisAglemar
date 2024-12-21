@@ -2,20 +2,7 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f84e4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Reis,👋;+Seja+bem+vindo!+😉)](https://git.io/typing-svg)
 
- # 🧾 sobre mim
-Sou um entusiasta da Engenharia de Software, com uma paixão especial pelo desenvolvimento em Java.
-
-O que realmente me motiva é a sede de conhecimento e o desejo de entender profundamente como as coisas funcionam, além da perspectiva de um usuário comum. 
-Acredito no poder do aprendizado contínuo e estou sempre em busca de novas oportunidades para expandir minhas habilidades e conhecimentos.
-
-Além da minha formação acadêmica, completei vários cursos no Curso em Vídeo, que me proporcionaram uma base sólida em diversas áreas da programação e tecnologia. 
-Recentemente, participei do Bootcamp Santander 2024, onde pude aplicar meus conhecimentos em projetos práticos e colaborativos, aprimorando ainda mais minhas competências técnicas e de trabalho em equipe.
-
-Meu objetivo é utilizar minha curiosidade e determinação para contribuir significativamente em projetos inovadores e desafiadores.
-<hr>
-<br><br>
-
- ## 🧮 Meu GitHub em números:
+  ## 🧮 Meu GitHub em números:
  
 
 ![nunmbers](https://github-readme-streak-stats.herokuapp.com/?user=Reisaglemar&theme=tokyonight&hide_border=false)
