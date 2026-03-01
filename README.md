@@ -1,31 +1,46 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f84e4&height=120&section=header"/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f84e4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Reis,👋;+Seja+bem+vindo!+😉)](https://git.io/typing-svg)
+<h1 align="center">Reis Aglemar</h1>
+<h3 align="center">Backend Developer • Java • APIs REST • Linux</h3>
 
-  ## 🧮 Meu GitHub em números:
- 
+<p align="center">
+Desenvolvedor focado em construção de APIs REST escaláveis, organização arquitetural
+e automações em ambiente Linux.
+</p>
 
-![nunmbers](https://github-readme-streak-stats.herokuapp.com/?user=Reisaglemar&theme=tokyonight&hide_border=false)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reisaglemar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<hr>
-<br>
+## 🚀 Sobre mim
 
-## 🧰 Mais utilizados
-   
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- 🔹 Desenvolvedor Backend com foco em Java e Spring Boot  
+- 🔹 Experiência com arquitetura em camadas  
+- 🔹 Criação de APIs REST bem estruturadas  
+- 🔹 Automação e produtividade em ambiente Linux  
+- 🔹 Organização de código seguindo boas práticas  
 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-<hr>
-<br><br>
+---
 
+## 🧠 Stack Principal
 
-   
-## 🌎 Outras redes
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marchireis/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aglemar-reis-1a961a251/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:Aglemar.reis@gmail.com)
+---
 
-<img align="center" src="https://profile-counter.glitch.me/{Reisaglemar}/count.svg" />
-<br><br> 
+## 📊 GitHub Stats
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reisaglemar&theme=tokyonight&hide_border=false)
+
+---
+
+## 🌎 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aglemar-reis-1a961a251/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:Aglemar.reis@gmail.com)
+
+---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f84e4&height=120&section=footer"/>
